@@ -61,7 +61,7 @@ export default defineConfig({
     host: "0.0.0.0",
     proxy: {
       "^/weatherforecast": {
-        target: "https://localhost:7281/",
+        target: "http://localhost:5281/",
         secure: false,
       },
     },
