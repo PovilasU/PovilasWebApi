@@ -30,6 +30,6 @@ yarn-error.log*
 # Ignore Visual Studio 2019 config folder
 .vs/
 
-# Ignore system files
+# Ignore system files_
 .DS_Store
 Thumbs.db
