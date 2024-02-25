@@ -2,7 +2,6 @@
 using Microsoft.EntityFrameworkCore;
 using PovilasWebApi.Server.Data;
 using PovilasWebApi.Server.Models;
-using PovilasWebApi.Server.Services;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
